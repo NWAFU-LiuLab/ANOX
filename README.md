@@ -16,5 +16,5 @@ This folder contains the code used in model validation process.
 ## Other code
 This folder contains other related code used in ANOX.
 
-## related_files.rar
+## related_files.rar (Part 1 and Part 2)
 This compressed file contains data for running other Python scripts.
