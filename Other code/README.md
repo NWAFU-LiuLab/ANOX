@@ -1,27 +1,27 @@
-#Other code related in ANOX
+# Other code related in ANOX
 
 
-#AOPs-SVM
+## AOPs-SVM
 
-#This folder contains the code of a previous model AOPs-SVM.
+* This folder contains the code of a previous model AOPs-SVM.
 
-In this study, AOPs-SVM was used to compare with ANOX to determine the improved performance of ANOX.
-
-
-#Other predictors
-
-#This folder contains the other three classifiers. The steps of feature extraction and selection are the same as ANOX.
+* In this study, AOPs-SVM was used to compare with ANOX to determine the improved performance of ANOX.
 
 
-#Plot
+## Other predictors
 
-#This folder contains all the figures in the result analysis.
+* This folder contains the other three classifiers. The steps of feature extraction and selection are the same as ANOX.
 
 
-#Results without using MRMD (ANOX-1673)
+## Plot
 
-#This folder contains the model validation code for ANOX-1673.
+* This folder contains all the figures in the result analysis.
 
-No feature selection method is used in ANOX-1673. Other steps are exactly the same as ANOX.
 
-Three model validation methods are used: 5-fold cross-validation, the jackknife test, and independent test
+## Results without using MRMD (ANOX-1673)
+
+* This folder contains the model validation code for ANOX-1673.
+
+* No feature selection method is used in ANOX-1673. Other steps are exactly the same as ANOX.
+
+* Three model validation methods are used: 5-fold cross-validation, the jackknife test, and independent test
