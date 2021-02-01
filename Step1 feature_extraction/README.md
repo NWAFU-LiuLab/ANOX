@@ -6,7 +6,7 @@ This script extracts 1673 features from Data folder.
 
 1. Decompress related_files(Part 1).rar and related_files(Part 2).rar.
 
-2. Find **`Data`** folder in the unzipped folder. Then copy **`Data`** folder to the current folder.
+2. Find ***Data*** folder in the unzipped folder. Then copy ***Data*** folder to the current folder.
 
 3. Run Python script.
 
