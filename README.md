@@ -20,3 +20,7 @@
 * This compressed file contains data for running other Python scripts.
 * Size of two compressed packets: 42.6MB in total
 
+## Benchmark data
+* This folder contains the benchmark data of ANOX and the background frequencies of the 20 standard amino acids.
+* These two files can also be downloaded from http://server.malab.cn/AOPs-SVM/data.jsp
+
